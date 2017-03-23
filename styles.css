@@ -1,7 +1,12 @@
-img {
-    width: 1000px;
-}
+
 body {
      text-align: center;
-     font-family: "AvantGarde-Demi";
+     font-family: "Arial Black";
+     color: rgba(0, 0, 0, 0.5);
+     color: PaleTurquoise;
+     
 }  
+body {
+    background-image: url("http://wtop.com/wp-content/uploads/2015/03/Hurricanes-Capitals-Hockey-1807x1254.jpeg");
+    image-orientation: center;
+}
